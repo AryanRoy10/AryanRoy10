@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AryanRoy10
+- 👋 Hi, I’m Aryan Roy
 - 👀 I’m interested in web development,app development,AI,data science, Machine learning
 - 🌱 I’m currently learning DSA in python,HTML,CSS
 - 💞️ I’m looking to collaborate as a front-end developer or as a programmer 
